@@ -1,0 +1,15 @@
+The task:
+This is the Charity Dao website: http://www.charity-dao.org/
+
+In the future, we want to have a section where anyone can pick a charitable cause to donate cryptocurrency to.
+This interaction (transfer) can be done through Metamask.
+
+Please build a clickable dummy of this section (HTML, JS, CSS or any frameworks you re familiar with),
+where there are 3 or more Charity Projects (fictional or non-fictional) that users can donate to.
+
+We will see how your design looks and how you handle the integration with the Metamask payment Gateway.
+
+You will probably come across many challenges, so please do not hesitate to send me some questions throughout.
+
+Deadline: Please have something ready to show and present (also with some uncompleted stuff
+due to the challenges you had) by Monday 15th January next week.
