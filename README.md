@@ -10,5 +10,5 @@ implementation. data to be stored in external json file structured as {query: re
 implementsockets.io and dialogflow for ai chatting.
 
 ## Progress
-
+basic Front end Messaging structure laid out. Next: implement sockets.io to pass data between front/back end. 
 ## Notes:
