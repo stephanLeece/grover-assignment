@@ -10,7 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "apiai": "^4.0.3",
-    "express": "^4.16.2",
-
+    "express": "^4.16.2"
   }
 }
