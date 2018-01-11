@@ -4,6 +4,8 @@ const server = express();
 const apiai = require('apiai');
 const botChat = apiai('4c6b4f2cd5dc4e87b871026a524c5b08');
 
+const chatBrain = require('./chatBrain.js');
+
 
 
 
@@ -22,24 +24,56 @@ server.get('/', function(req, res) {
 });
 
 
-server.post("/chat", function(request, response) {
-  console.log(request.body);
-  var request = botChat.textRequest(request.body.userMessage, {
-      sessionId: '1'
+server.post("/chat", function(req, res) {
+  console.log(req.body.userMessage);
+  const reply = chatBrain.sayHello(req.body.userMessage)
+res.send(reply);
   });
 
-  request.on('response', function(reply) {
-      response.send(reply.result.fulfillment.speech);
-  });
-
-  request.on('error', function(error) {
-      console.log(error);
-  });
-
-  request.end();
 
 
-  });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// server.post("/chat", function(request, response) {
+//   console.log(request.body);
+//   var request = botChat.textRequest(request.body.userMessage, {
+//       sessionId: '1'
+//   });
+//
+//   request.on('response', function(reply) {
+//       response.send(reply.result.fulfillment.speech);
+//   });
+//
+//   request.on('error', function(error) {
+//       console.log(error);
+//   });
+//
+//   request.end();
+//
+//
+//   });
 
 
 

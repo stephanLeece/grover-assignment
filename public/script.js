@@ -4,13 +4,14 @@
       if(e.which == 13) {
         if($(textarea).val().match(/[^\s]/))
           console.log('enter');
+
           $('main').append(`<div class='message'>${$(textarea).val()}</div>`)
           $.post({
             url: "/chat",
             data: {userMessage: $(textarea).val()},
             success: function (data) {
               $(textarea).val('')
-              $('main').append(`<div class='message'>${data}</div>`)
+              setTimeout(()=>{$('main').append(`<div class='message'>${data}</div>`)}, 1000)
               console.log(data);
             },
 
