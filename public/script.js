@@ -1,7 +1,7 @@
 // if textbox isn't empty, add user's message to chat history, then make a post request to server.
 // if successful, append bot's reply to chat window. Scroll to bottom automatically.
 
-// setTimeout used to stop bot replying instantaneously. 
+// setTimeout used to stop bot replying instantaneously.
 
 $(document).keypress(function(e) {
   if (e.which == 13) {

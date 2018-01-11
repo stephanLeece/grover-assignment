@@ -17,7 +17,10 @@ server.post("/chat", function(req, res) {
   console.log(req.body.userMessage);
   fs.appendFileSync(__dirname + '/records.json', `user: ${req.body.userMessage}\n`, "UTF-8");
   const reply = chatBrain.replyToUser(req.body.userMessage);
-  fs.appendFileSync(__dirname + '/records.json', `grobot: ${reply}\n`, "UTF-8");
+  let formattedReply = reply.replace(/<p>/g, '');
+  console.log(reply);
+  console.log(formattedReply);
+  fs.appendFileSync(__dirname + '/records.json', `grobot: ${formattedReply}\n`, "UTF-8");
   res.send(reply)
 });
 

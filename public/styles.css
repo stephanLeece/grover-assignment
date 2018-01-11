@@ -59,6 +59,7 @@ section {
   margin: 5px;
   padding: 5px;
   max-width: 15vw;
+  text-align: center;
 }
 
 .userMessage {

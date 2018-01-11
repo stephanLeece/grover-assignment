@@ -10,16 +10,16 @@ module.exports.replyToUser = (query) => {
 
 
     if (product.productName.toLowerCase().indexOf(query.toLowerCase()) >= 0) {
-        reply += `${product.productName} for ${product.subscriptionPrice}. `;
+        reply += `<p>${product.productName} for ${product.subscriptionPrice}.<p>`;
     }
 
 
     else if (product.brand.toLowerCase().indexOf(query.toLowerCase()) >= 0) {
-        reply += `${product.productName} for ${product.subscriptionPrice}. `;
+        reply += `<p>${product.productName} for ${product.subscriptionPrice}.<p>`;
     }
 
      else if (product.category.toLowerCase().indexOf(query.toLowerCase()) >= 0) {
-        reply += `${product.productName} for ${product.subscriptionPrice}. `;
+        reply += `<p>${product.productName} for ${product.subscriptionPrice}.<p>`;
     }
 
   })
