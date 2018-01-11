@@ -2,7 +2,7 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const server = express();
 const chatBrain = require('./chatBrain.js');
-
+const fs = require("fs");
 
 
 
@@ -26,8 +26,10 @@ server.get('/', function(req, res) {
 
 server.post("/chat", function(req, res) {
   console.log(req.body.userMessage);
-  const reply = chatBrain.sayHello(req.body.userMessage)
-res.send(reply);
+  fs.appendFileSync(__dirname + '/records.json', `user: ${req.body.userMessage}\n`, "UTF-8");
+  const reply = chatBrain.sayHello(req.body.userMessage);
+  fs.appendFileSync(__dirname + '/records.json', `grobot: ${reply}\n`, "UTF-8");
+res.send(reply)
   });
 
 
