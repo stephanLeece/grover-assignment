@@ -2,20 +2,17 @@
 
   $(document).keypress(function(e) {
       if(e.which == 13) {
-        if($(textarea).val().match(/[^\s]/))
-          console.log('enter');
-
-          $('main').append(`<div class='message'>${$(textarea).val()}</div>`)
+        if($(textarea).val().match(/[^\s]/)) {
+          $('.messageWindow').append(`<div class='message userMessage'>${$(textarea).val()}</div>`)
           $.post({
             url: "/chat",
             data: {userMessage: $(textarea).val()},
             success: function (data) {
               $(textarea).val('')
-              setTimeout(()=>{$('main').append(`<div class='message'>${data}</div>`)}, 1000)
-              console.log(data);
-            },
-
+              setTimeout(()=>{$('.messageWindow').append(`<div class='message botMessage'>${data}</div>`)}, 1000)
+              $(".messageWindow").stop().animate({ scrollTop: $(".messageWindow")[0].scrollHeight}, 1000);
+            }
           });
-
+}
       }
   });
