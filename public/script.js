@@ -15,11 +15,12 @@ $(document).keypress(function(e) {
         success: function(data) {
           $(textarea).val('')
           setTimeout(() => {
-            $('.messageWindow').append(`<div class='message botMessage'>${data}</div>`)
+            $('.messageWindow').append(`<div class='message botMessage'>${data}</div>`);
+            $(".messageWindow").stop().animate({
+              scrollTop: $(".messageWindow")[0].scrollHeight
+            }, 500);
           }, 1000)
-          $(".messageWindow").stop().animate({
-            scrollTop: $(".messageWindow")[0].scrollHeight
-          }, 1000);
+
         }
       });
     }

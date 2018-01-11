@@ -4,14 +4,17 @@
     {
       "productId": "1",
       "productName": "iPhone 7 128GB",
+      "synonyms": "",
       "brand": "Apple",
       "category": "Phones & Tablets",
+
       "subscriptionPrice": "44.99"
     },
 
     {
       "productId": "2",
       "productName": "iPhone 7 32GB",
+      "synonyms": "",
       "brand": "Apple",
       "category": "Phones & Tablets",
       "subscriptionPrice": "39.99"
@@ -20,6 +23,7 @@
     {
       "productId": "3",
       "productName": "iPhone 7 Plus 128GB",
+      "synonyms": "",
       "brand": "Apple",
       "category": "Phones & Tablets",
       "subscriptionPrice": "49.99"
@@ -28,6 +32,7 @@
     {
       "productId": "4",
       "productName": "Galaxy S8 64GB",
+      "synonyms": "",
       "brand": "Samsung",
       "category": "Phones & Tablets",
       "subscriptionPrice": "44.99"
@@ -36,6 +41,7 @@
     {
       "productId": "5",
       "productName": "Galaxy S8+ 64GB",
+      "synonyms": "",
       "brand": "Samsung",
       "category": "Phones & Tablets",
       "subscriptionPrice": "49.99"
@@ -44,6 +50,7 @@
     {
       "productId": "6",
       "productName": "Drone BEBOP",
+      "synonyms": "",
       "brand": "Parrot",
       "category": "Drones",
       "subscriptionPrice": "49.99"
@@ -52,6 +59,7 @@
     {
       "productId": "7",
       "productName": "Drone BEBOP 2",
+      "synonyms": "",
       "brand": "Parrot",
       "category": "Drones",
       "subscriptionPrice": "59.99"
@@ -60,6 +68,7 @@
     {
       "productId": "8",
       "productName": "Vive",
+      "synonyms": "",
       "brand": "HTC",
       "category": "Gaming & VR",
       "subscriptionPrice": "59.99"
@@ -68,6 +77,7 @@
     {
       "productId": "9",
       "productName": "Virtual Reality Glasses Rift VR",
+      "synonyms": "",
       "brand": "Oculus",
       "category": "Gaming & VR",
       "subscriptionPrice": "59.99"
@@ -76,6 +86,7 @@
     {
       "productId": "10",
       "productName": "MacBook 12\" M-5Y31, 8GB RAM, 516GB",
+      "synonyms": "",
       "brand": "Apple",
       "category": "Computing",
       "subscriptionPrice": "59.99"
@@ -84,6 +95,7 @@
     {
       "productId": "11",
       "productName": "MacBook Air 11\" i7 2.2, 8GB RAM, 512GB",
+      "synonyms": "",
       "brand": "Apple",
       "category": "Computing",
       "subscriptionPrice": "64.99"
@@ -92,6 +104,7 @@
     {
       "productId": "12",
       "productName": "MacBook Air 13\" i5-5250U, 4GB RAM, 128GB",
+      "synonyms": "",
       "brand": "Apple",
       "category": "Computing",
       "subscriptionPrice": "69.99"
@@ -100,6 +113,7 @@
     {
       "productId": "13",
       "productName": "MacBook Pro 13\" i5-3210M, 4GB RAM, 500GB",
+      "synonyms": "",
       "brand": "Apple",
       "category": "Computing",
       "subscriptionPrice": "74.99"
@@ -108,6 +122,7 @@
     {
       "productId": "14",
       "productName": "Convertible Laptop Surface Book 512GB SSD Intel Core i7 16GB RAM dGPU",
+      "synonyms": "",
       "brand": "Microsoft",
       "category": "Computing",
       "subscriptionPrice": "59.99"
@@ -116,6 +131,7 @@
     {
       "productId": "15",
       "productName": "Convertible Laptop YOGA 300-11IBR 80M1004KGE",
+      "synonyms": "",
       "brand": "Lenovo",
       "category": "Computing",
       "subscriptionPrice": "59.99"
@@ -124,6 +140,7 @@
     {
       "productId": "16",
       "productName": "Watch 38mm",
+      "synonyms": "",
       "brand": "Apple",
       "category": "Wearables",
       "subscriptionPrice": "39.99"
@@ -132,6 +149,7 @@
     {
       "productId": "17",
       "productName": "Watch 42mm",
+      "synonyms": "",
       "brand": "Apple",
       "category": "Wearables",
       "subscriptionPrice": "44.99"
@@ -140,6 +158,7 @@
     {
       "productId": "18",
       "productName": "Watch Ambit 3",
+      "synonyms": "",
       "brand": "Suunto",
       "category": "Wearables",
       "subscriptionPrice": "39.99"
@@ -148,6 +167,7 @@
     {
       "productId": "19",
       "productName": "Watch V800",
+      "synonyms": "",
       "brand": "Polar",
       "category": "Wearables",
       "subscriptionPrice": "39.99"
@@ -156,6 +176,7 @@
     {
       "productId": "20",
       "productName": "Watch WI503Q-1LDBR0001",
+      "synonyms": "",
       "brand": "Asus",
       "category": "Wearables",
       "subscriptionPrice": "44.99"
@@ -164,6 +185,7 @@
     {
       "productId": "21",
       "productName": "Alexa Dot",
+      "synonyms": "",
       "brand": "Amazon",
       "category": "Smart Home",
       "subscriptionPrice": "44.99"
@@ -172,6 +194,7 @@
     {
       "productId": "22",
       "productName": "Alexa Echo",
+      "synonyms": "",
       "brand": "Amazon",
       "category": "Smart Home",
       "subscriptionPrice": "49.99"
@@ -180,6 +203,7 @@
     {
       "productId": "23",
       "productName": "Qbo Milk Master",
+      "synonyms": "",
       "brand": "Tchibo",
       "category": "Smart Home",
       "subscriptionPrice": "29.99"
@@ -188,6 +212,7 @@
     {
       "productId": "24",
       "productName": "Robotic Vacuum Cleaner POWERbot VR20J9020UR/EG",
+      "synonyms": "",
       "brand": "Samsung",
       "category": "Smart Home",
       "subscriptionPrice": "39.99"
@@ -196,6 +221,7 @@
     {
       "productId": "24",
       "productName": "Robotic Vacuum Cleaner POWERbot VR20J9259U/EG",
+      "synonyms": "",
       "brand": "Samsung",
       "category": "Smart Home",
       "subscriptionPrice": "39.99"

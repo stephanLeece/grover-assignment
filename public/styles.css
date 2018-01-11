@@ -36,12 +36,12 @@ section {
   align-items: center;
   color: white;
   background-color: black;
-  border-top-left-radius: 10px;
-  border-top-right-radius: 10px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
 }
 
 .chatInfo>img {
-  margin-right: 1%;
+  margin-left: 1%;
   max-width: 4vw;
   max-height: 4vh;
 }
@@ -57,9 +57,10 @@ section {
 .message {
   border-radius: 10px;
   margin: 5px;
-  padding: 5px;
+  padding: 10px;
   max-width: 15vw;
   text-align: center;
+  word-wrap: break-word
 }
 
 .userMessage {
@@ -73,9 +74,12 @@ section {
 }
 
 textarea {
+  padding: 5px;
+  resize: none;
   height: 20%;
   box-sizing: border-box;
   overflow: hidden;
   outline: none;
-  border-bottom-left-radius: 10px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
 }
