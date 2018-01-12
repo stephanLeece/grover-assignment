@@ -200,3 +200,41 @@ user: wear
 grobot: OK, for Wearables we have the following brands: Apple, Suunto, Polar, Asus.
 user: sgfdhm,
 grobot: Sorry, i'm having trouble finding that!
+user: apple watch
+grobot: Currently available: Watch 38mm for 39.99.Watch 42mm for 44.99.
+user: apple wearables
+grobot: Sorry, i'm having trouble finding that!
+user: wearables
+grobot: OK, for Wearables we have the following brands: Apple, Suunto, Polar, Asus.
+user: apple iph
+grobot: Currently available: iPhone 7 128GB for 44.99.iPhone 7 32GB for 39.99.iPhone 7 Plus 128GB for 49.99.
+user: apple
+grobot: OK, for Apple we have the following categories: Phones & Tablets, Computing, Wearables.
+user: apple phones
+grobot: Sorry, i'm having trouble finding that!
+user: apple phones
+grobot: Currently available: iPhone 7 128GB for 44.99.iPhone 7 32GB for 39.99.iPhone 7 Plus 128GB for 49.99.
+user: apple wearables
+grobot: Currently available: Watch 38mm for 39.99.Watch 42mm for 44.99.
+user: apple home
+grobot: Sorry, i'm having trouble finding that!
+user: apple computing
+grobot: Currently available: MacBook 12" M-5Y31, 8GB RAM, 516GB for 59.99.MacBook Air 11" i7 2.2, 8GB RAM, 512GB for 64.99.MacBook Air 13" i5-5250U, 4GB RAM, 128GB for 69.99.MacBook Pro 13" i5-3210M, 4GB RAM, 500GB for 74.99.
+user: apple
+grobot: OK, for Apple we have the following categories: Phones & Tablets, Computing, Wearables.
+user: apple pho
+grobot: Currently available: iPhone 7 128GB for 44.99.iPhone 7 32GB for 39.99.iPhone 7 Plus 128GB for 49.99.
+user: samsung
+grobot: OK, for Samsung we have the following categories: Phones & Tablets, Smart Home.
+user: samsung phone
+grobot: Currently available: Galaxy S8 64GB for 44.99.Galaxy S8+ 64GB for 49.99.
+user: samsung galaxy
+grobot: Currently available: Galaxy S8 64GB for 44.99.Galaxy S8+ 64GB for 49.99.
+user: amazon echo
+grobot: Sorry, i'm having trouble finding that!
+user: amazon alexa
+grobot: Currently available: Alexa Dot for 44.99.Alexa Echo for 49.99.
+user: echo
+grobot: Currently available: Alexa Echo for 49.99.
+user: apple 7
+grobot: Sorry, i'm having trouble finding that!

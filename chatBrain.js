@@ -1,7 +1,6 @@
 const data = require('./data.json');
 // takes user message as input. First attempts to match to data.json records by productName, then brand, then type.
-/*  ideA: record previous brand/category search reulsts. On subsequent brand/category searches, return products that match that
-parameter e.g search for apple, next search for wearables only returns apple wearables */
+
 module.exports.replyToUser = (query) => {
   var queryRegEx = new RegExp(query, 'i');
   let FilteredProductResults = [];
@@ -10,7 +9,8 @@ module.exports.replyToUser = (query) => {
   data.products.forEach((product) => {
 
 
-    let nameWithBrand = `${product.brand} ${product.productName}`
+    let brandWithName = `${product.brand} ${product.productName}`
+    let brandWithCategory = `${product.brand} ${product.category}`
 
     if (product.productName.match(queryRegEx)) {
       reply += `<p>${product.productName} for ${product.subscriptionPrice}.<p>`;
@@ -36,7 +36,17 @@ module.exports.replyToUser = (query) => {
       + FilteredProductResults.join(', ') + '.'
     }
 
-    else if (nameWithBrand.match(queryRegEx)) {
+// match brand with name (e.g apple iphone 7)
+    else if (brandWithName.match(queryRegEx)) {
+      reply += `<p>${product.productName} for ${product.subscriptionPrice}.<p>`;
+      if (!specificNameMatched) {
+          reply = 'Currently available: ' + reply
+          specificNameMatched = true;
+      }
+    }
+
+  // match brand with category (e.g apple wearables)
+    else if (brandWithCategory.match(queryRegEx)) {
       reply += `<p>${product.productName} for ${product.subscriptionPrice}.<p>`;
       if (!specificNameMatched) {
           reply = 'Currently available: ' + reply
