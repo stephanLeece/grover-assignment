@@ -12,3 +12,31 @@ user: alexa
 grobot: Currently available: Alexa Dot for 44.99.Alexa Echo for 49.99.
 user: amazon
 grobot: Currently available: Alexa Dot for 44.99.Alexa Echo for 49.99.
+user: apple
+grobot: Currently available: iPhone 7 128GB for 44.99.iPhone 7 32GB for 39.99.iPhone 7 Plus 128GB for 49.99.MacBook 12" M-5Y31, 8GB RAM, 516GB for 59.99.MacBook Air 11" i7 2.2, 8GB RAM, 512GB for 64.99.MacBook Air 13" i5-5250U, 4GB RAM, 128GB for 69.99.MacBook Pro 13" i5-3210M, 4GB RAM, 500GB for 74.99.Watch 38mm for 39.99.Watch 42mm for 44.99.
+user: amazon
+grobot: Currently available: Alexa Dot for 44.99.Alexa Echo for 49.99.
+user: iphone
+user: iphone
+grobot: Currently available: iPhone 7 128GB for 44.99.iPhone 7 32GB for 39.99.iPhone 7 Plus 128GB for 49.99.
+user: samsung
+user: saumsun
+grobot: Sorry, i don't understand.
+user: samsung
+grobot: Currently available: Galaxy S8 64GB for 44.99.Galaxy S8+ 64GB for 49.99.Robotic Vacuum Cleaner POWERbot VR20J9020UR/EG for 39.99.Robotic Vacuum Cleaner POWERbot VR20J9259U/EG for 39.99.
+user: samsung galaxy
+grobot: Currently available: Galaxy S8 64GB for 44.99.Galaxy S8+ 64GB for 49.99.
+user: amazon echo
+grobot: Sorry, i don't understand.
+user: amazon alexa
+grobot: Currently available: Alexa Dot for 44.99.Alexa Echo for 49.99.
+user: echo
+grobot: Currently available: Alexa Echo for 49.99.
+user: alexa
+grobot: Currently available: Alexa Dot for 44.99.Alexa Echo for 49.99.
+user: amazon alexa
+grobot: Currently available: Alexa Dot for 44.99.Alexa Echo for 49.99.
+user: computing
+grobot: Currently available: MacBook 12" M-5Y31, 8GB RAM, 516GB for 59.99.MacBook Air 11" i7 2.2, 8GB RAM, 512GB for 64.99.MacBook Air 13" i5-5250U, 4GB RAM, 128GB for 69.99.MacBook Pro 13" i5-3210M, 4GB RAM, 500GB for 74.99.Convertible Laptop Surface Book 512GB SSD Intel Core i7 16GB RAM dGPU for 59.99.Convertible Laptop YOGA 300-11IBR 80M1004KGE for 59.99.
+user: computers
+grobot: Sorry, i don't understand.
