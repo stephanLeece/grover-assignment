@@ -42,3 +42,53 @@ user: computers
 grobot: Sorry, i don't understand.
 user: apple
 grobot: Currently available: iPhone 7 128GB for 44.99.iPhone 7 32GB for 39.99.iPhone 7 Plus 128GB for 49.99.MacBook 12" M-5Y31, 8GB RAM, 516GB for 59.99.MacBook Air 11" i7 2.2, 8GB RAM, 512GB for 64.99.MacBook Air 13" i5-5250U, 4GB RAM, 128GB for 69.99.MacBook Pro 13" i5-3210M, 4GB RAM, 500GB for 74.99.Watch 38mm for 39.99.Watch 42mm for 44.99.
+user: apple
+grobot: Currently available: iPhone 7 128GB for 44.99.iPhone 7 32GB for 39.99.iPhone 7 Plus 128GB for 49.99.MacBook 12" M-5Y31, 8GB RAM, 516GB for 59.99.MacBook Air 11" i7 2.2, 8GB RAM, 512GB for 64.99.MacBook Air 13" i5-5250U, 4GB RAM, 128GB for 69.99.MacBook Pro 13" i5-3210M, 4GB RAM, 500GB for 74.99.Watch 38mm for 39.99.Watch 42mm for 44.99.
+user: apple
+grobot: Currently available: iPhone 7 128GB for 44.99.iPhone 7 32GB for 39.99.iPhone 7 Plus 128GB for 49.99.MacBook 12" M-5Y31, 8GB RAM, 516GB for 59.99.MacBook Air 11" i7 2.2, 8GB RAM, 512GB for 64.99.MacBook Air 13" i5-5250U, 4GB RAM, 128GB for 69.99.MacBook Pro 13" i5-3210M, 4GB RAM, 500GB for 74.99.Watch 38mm for 39.99.Watch 42mm for 44.99.
+user: apple
+grobot: Currently available: iPhone 7 128GB for 44.99.iPhone 7 32GB for 39.99.iPhone 7 Plus 128GB for 49.99.MacBook 12" M-5Y31, 8GB RAM, 516GB for 59.99.MacBook Air 11" i7 2.2, 8GB RAM, 512GB for 64.99.MacBook Air 13" i5-5250U, 4GB RAM, 128GB for 69.99.MacBook Pro 13" i5-3210M, 4GB RAM, 500GB for 74.99.Watch 38mm for 39.99.Watch 42mm for 44.99.
+user: iphone 7
+grobot: Currently available: iPhone 7 128GB for 44.99.iPhone 7 32GB for 39.99.iPhone 7 Plus 128GB for 49.99.
+user: samsung galaxy
+grobot: Currently available: Galaxy S8 64GB for 44.99.Galaxy S8+ 64GB for 49.99.
+user: drone
+grobot: Currently available: Drone BEBOP for 49.99.Drone BEBOP 2 for 59.99.
+user: amazon
+grobot: Currently available: Alexa Dot for 44.99.Alexa Echo for 49.99.
+user: surface
+grobot: Currently available: Convertible Laptop Surface Book 512GB SSD Intel Core i7 16GB RAM dGPU for 59.99.
+user: mac
+grobot: Currently available: MacBook 12" M-5Y31, 8GB RAM, 516GB for 59.99.MacBook Air 11" i7 2.2, 8GB RAM, 512GB for 64.99.MacBook Air 13" i5-5250U, 4GB RAM, 128GB for 69.99.MacBook Pro 13" i5-3210M, 4GB RAM, 500GB for 74.99.
+user: ipho
+grobot: Currently available: iPhone 7 128GB for 44.99.iPhone 7 32GB for 39.99.iPhone 7 Plus 128GB for 49.99.
+user: watch
+grobot: Currently available: Watch 38mm for 39.99.Watch 42mm for 44.99.Watch Ambit 3 for 39.99.Watch V800 for 39.99.Watch WI503Q-1LDBR0001 for 44.99.
+user: milk
+grobot: Currently available: Qbo Milk Master for 29.99.
+user: a
+grobot: Currently available: iPhone 7 128GB for 44.99.iPhone 7 32GB for 39.99.iPhone 7 Plus 128GB for 49.99.Galaxy S8 64GB for 44.99.Galaxy S8+ 64GB for 49.99.Drone BEBOP for 49.99.Drone BEBOP 2 for 59.99.Vive for 59.99.Virtual Reality Glasses Rift VR for 59.99.MacBook 12" M-5Y31, 8GB RAM, 516GB for 59.99.MacBook Air 11" i7 2.2, 8GB RAM, 512GB for 64.99.MacBook Air 13" i5-5250U, 4GB RAM, 128GB for 69.99.MacBook Pro 13" i5-3210M, 4GB RAM, 500GB for 74.99.Convertible Laptop Surface Book 512GB SSD Intel Core i7 16GB RAM dGPU for 59.99.Convertible Laptop YOGA 300-11IBR 80M1004KGE for 59.99.Watch 38mm for 39.99.Watch 42mm for 44.99.Watch Ambit 3 for 39.99.Watch V800 for 39.99.Watch WI503Q-1LDBR0001 for 44.99.Alexa Dot for 44.99.Alexa Echo for 49.99.Qbo Milk Master for 29.99.Robotic Vacuum Cleaner POWERbot VR20J9020UR/EG for 39.99.Robotic Vacuum Cleaner POWERbot VR20J9259U/EG for 39.99.
+user: iphone 7 plus
+grobot: Currently available: iPhone 7 Plus 128GB for 49.99.
+user: occulus
+grobot: Sorry, i don't understand.
+user: oculus
+grobot: Currently available: Virtual Reality Glasses Rift VR for 59.99.
+user: mac
+grobot: Currently available: MacBook 12" M-5Y31, 8GB RAM, 516GB for 59.99.MacBook Air 11" i7 2.2, 8GB RAM, 512GB for 64.99.MacBook Air 13" i5-5250U, 4GB RAM, 128GB for 69.99.MacBook Pro 13" i5-3210M, 4GB RAM, 500GB for 74.99.
+user: book
+grobot: Currently available: MacBook 12" M-5Y31, 8GB RAM, 516GB for 59.99.MacBook Air 11" i7 2.2, 8GB RAM, 512GB for 64.99.MacBook Air 13" i5-5250U, 4GB RAM, 128GB for 69.99.MacBook Pro 13" i5-3210M, 4GB RAM, 500GB for 74.99.Convertible Laptop Surface Book 512GB SSD Intel Core i7 16GB RAM dGPU for 59.99.
+user: smart
+grobot: Currently available: Alexa Dot for 44.99.Alexa Echo for 49.99.Qbo Milk Master for 29.99.Robotic Vacuum Cleaner POWERbot VR20J9020UR/EG for 39.99.Robotic Vacuum Cleaner POWERbot VR20J9259U/EG for 39.99.
+user: home
+grobot: Currently available: Alexa Dot for 44.99.Alexa Echo for 49.99.Qbo Milk Master for 29.99.Robotic Vacuum Cleaner POWERbot VR20J9020UR/EG for 39.99.Robotic Vacuum Cleaner POWERbot VR20J9259U/EG for 39.99.
+user: wearable
+grobot: Currently available: Watch 38mm for 39.99.Watch 42mm for 44.99.Watch Ambit 3 for 39.99.Watch V800 for 39.99.Watch WI503Q-1LDBR0001 for 44.99.
+user: apple
+grobot: Currently available: iPhone 7 128GB for 44.99.iPhone 7 32GB for 39.99.iPhone 7 Plus 128GB for 49.99.MacBook 12" M-5Y31, 8GB RAM, 516GB for 59.99.MacBook Air 11" i7 2.2, 8GB RAM, 512GB for 64.99.MacBook Air 13" i5-5250U, 4GB RAM, 128GB for 69.99.MacBook Pro 13" i5-3210M, 4GB RAM, 500GB for 74.99.Watch 38mm for 39.99.Watch 42mm for 44.99.
+user: iphone 7 plus
+grobot: Currently available: iPhone 7 Plus 128GB for 49.99.
+user: iphone 7
+grobot: Currently available: iPhone 7 128GB for 44.99.iPhone 7 32GB for 39.99.iPhone 7 Plus 128GB for 49.99.
+user: apple
+grobot: Currently available: iPhone 7 128GB for 44.99.iPhone 7 32GB for 39.99.iPhone 7 Plus 128GB for 49.99.MacBook 12" M-5Y31, 8GB RAM, 516GB for 59.99.MacBook Air 11" i7 2.2, 8GB RAM, 512GB for 64.99.MacBook Air 13" i5-5250U, 4GB RAM, 128GB for 69.99.MacBook Pro 13" i5-3210M, 4GB RAM, 500GB for 74.99.Watch 38mm for 39.99.Watch 42mm for 44.99.

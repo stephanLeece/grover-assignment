@@ -13,7 +13,7 @@ body {
 }
 
 section {
-  height: 50%;
+  height: 75%;
   background-color: #323232;
   display: flex;
   flex-direction: row;
@@ -22,7 +22,7 @@ section {
 }
 
 .chatContainer {
-  flex-grow: 0.2;
+  width: 45%;
   height: 90%;
   display: flex;
   flex-direction: column;
@@ -36,8 +36,8 @@ section {
   align-items: center;
   color: white;
   background-color: black;
-  border-top-left-radius: 5px;
-  border-top-right-radius: 5px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
 }
 
 .chatInfo>img {
@@ -58,7 +58,8 @@ section {
   border-radius: 10px;
   margin: 5px;
   padding: 10px;
-  max-width: 15vw;
+  max-width: 25vw;
+  font-size: 18pt;
   text-align: center;
   word-wrap: break-word
 }
@@ -80,6 +81,6 @@ textarea {
   box-sizing: border-box;
   overflow: hidden;
   outline: none;
-  border-bottom-left-radius: 5px;
-  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
 }
