@@ -3,6 +3,12 @@
 
 // setTimeout used to stop bot replying instantaneously.
 
+const welcomeMessages = ['Hi! What are you looking for today?','Hey there. What are you thinking of renting?',
+'Hello! What are you interested in?']
+
+
+$('#botWelcomeMsg').html(welcomeMessages[Math.floor(Math.random()*welcomeMessages.length)]);
+
 $(document).keypress(function(e) {
   if (e.which == 13) {
     if ($(textarea).val().match(/[^\s]/)) {
