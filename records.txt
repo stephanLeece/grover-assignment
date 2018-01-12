@@ -92,3 +92,111 @@ user: iphone 7
 grobot: Currently available: iPhone 7 128GB for 44.99.iPhone 7 32GB for 39.99.iPhone 7 Plus 128GB for 49.99.
 user: apple
 grobot: Currently available: iPhone 7 128GB for 44.99.iPhone 7 32GB for 39.99.iPhone 7 Plus 128GB for 49.99.MacBook 12" M-5Y31, 8GB RAM, 516GB for 59.99.MacBook Air 11" i7 2.2, 8GB RAM, 512GB for 64.99.MacBook Air 13" i5-5250U, 4GB RAM, 128GB for 69.99.MacBook Pro 13" i5-3210M, 4GB RAM, 500GB for 74.99.Watch 38mm for 39.99.Watch 42mm for 44.99.
+user: samsung jgjgjfjf
+grobot: Sorry, i don't understand.
+user: apple
+grobot: Currently available: iPhone 7 128GB for 44.99.iPhone 7 32GB for 39.99.iPhone 7 Plus 128GB for 49.99.MacBook 12" M-5Y31, 8GB RAM, 516GB for 59.99.MacBook Air 11" i7 2.2, 8GB RAM, 512GB for 64.99.MacBook Air 13" i5-5250U, 4GB RAM, 128GB for 69.99.MacBook Pro 13" i5-3210M, 4GB RAM, 500GB for 74.99.Watch 38mm for 39.99.Watch 42mm for 44.99.
+user: apple
+grobot: Currently available: iPhone 7 128GB for 44.99.iPhone 7 32GB for 39.99.iPhone 7 Plus 128GB for 49.99.MacBook 12" M-5Y31, 8GB RAM, 516GB for 59.99.MacBook Air 11" i7 2.2, 8GB RAM, 512GB for 64.99.MacBook Air 13" i5-5250U, 4GB RAM, 128GB for 69.99.MacBook Pro 13" i5-3210M, 4GB RAM, 500GB for 74.99.Watch 38mm for 39.99.Watch 42mm for 44.99.
+user: apple
+grobot: Sorry, i don't understand.
+user: apple
+grobot: Sorry, i don't understand.
+user: apple
+grobot: Sorry, i don't understand.
+user: apple
+grobot: Sorry, i don't understand.
+user: apple
+grobot: Sorry, i don't understand.
+user: apple
+grobot: Sorry, i don't understand.
+user: samsung
+grobot: Sorry, i don't understand.
+user: samsung
+grobot: Sorry, i don't understand.
+user: apple
+grobot: Sorry, i don't understand.
+user: apple
+user: apple
+grobot: Sorry, i don't understand.
+user: apple
+grobot: Sorry, i don't understand.
+user: apple
+grobot: Sorry, i don't understand.
+user: apple
+grobot: Sorry, i don't understand.
+user: apple
+grobot: Sorry, i don't understand.
+user: apple
+grobot: Currently available: OK, for apple we have the following categories: OK, for apple we have the following categories: OK, for apple we have the following categories: Phones & TabletsComputingWearables
+user: apple
+grobot: Currently available: OK, for apple we have the following categories: Phones & TabletsComputingWearables
+user: apple
+grobot: Currently available: OK, for apple we have the following categories: Phones & TabletsComputingWearables
+user: apple
+grobot: Currently available: OK, for apple we have the following categories: , Phones & Tablets, Computing, Wearables
+user: apple
+grobot: Currently available: OK, for apple we have the following categories: Phones & Tablets, Computing, Wearables
+user: apple
+grobot: Currently available: OK, for apple we have the following categories: Phones & Tablets, Computing, Wearables
+user: phones
+grobot: Currently available: OK, for phones we have the following brands: Apple, Samsung
+user: apple
+grobot: OK, for apple we have the following categories: Phones & Tablets, Computing, Wearables
+user: apple iphone
+grobot: iPhone 7 128GB for 44.99.iPhone 7 32GB for 39.99.iPhone 7 Plus 128GB for 49.99.
+user: apple
+grobot: OK, for apple we have the following categories: Phones & Tablets, Computing, Wearables. What would you like to see?
+user: phones
+grobot: OK, for phones we have the following brands: Apple, Samsung. Anything take your fancy?
+user: iphone
+grobot: Currently available: Currently available: Currently available: iPhone 7 128GB for 44.99.iPhone 7 32GB for 39.99.iPhone 7 Plus 128GB for 49.99.
+user: ihpone
+grobot: Sorry, i don't understand.
+user: iphone
+grobot: Currently available: iPhone 7 128GB for 44.99.iPhone 7 32GB for 39.99.iPhone 7 Plus 128GB for 49.99.
+user: iphone 7
+grobot: Currently available: iPhone 7 128GB for 44.99.iPhone 7 32GB for 39.99.iPhone 7 Plus 128GB for 49.99.
+user: apple ip[hone
+user: apple iphone
+grobot: Currently available: Currently available: Currently available: iPhone 7 128GB for 44.99.iPhone 7 32GB for 39.99.iPhone 7 Plus 128GB for 49.99.
+user: [][][]
+grobot: Sorry, i don't understand.
+user: apple
+grobot: OK, for apple we have the following categories: Phones & Tablets, Computing, Wearables. What would you like to see?
+user: smart
+grobot: OK, for smart we have the following brands: Amazon, Tchibo, Samsung. Anything take your fancy?
+user: iphone
+grobot: Currently available: iPhone 7 128GB for 44.99.iPhone 7 32GB for 39.99.iPhone 7 Plus 128GB for 49.99.
+user: iphone 7
+grobot: Currently available: iPhone 7 128GB for 44.99.iPhone 7 32GB for 39.99.iPhone 7 Plus 128GB for 49.99.
+user: samsung
+grobot: OK, for samsung we have the following categories: Phones & Tablets, Smart Home. What would you like to see?
+user: apple
+grobot: OK, for Apple we have the following categories: Phones & Tablets, Computing, Wearables. What would you like to see?
+user: computing
+grobot: OK, for Computing we have the following brands: Apple, Microsoft, Lenovo. Anything take your fancy?
+user: samsung
+grobot: OK, for Samsung we have the following categories: Phones & Tablets, Smart Home.
+user: samsung galaxy
+grobot: Currently available: Currently available: Galaxy S8 64GB for 44.99.Galaxy S8+ 64GB for 49.99.
+user: apple
+grobot: OK, for Apple we have the following categories: Phones & Tablets, Computing, Wearables.
+user: ihpone
+grobot: Sorry, i don't understand.
+user: iphone 7
+grobot: Currently available: iPhone 7 128GB for 44.99.iPhone 7 32GB for 39.99.iPhone 7 Plus 128GB for 49.99.
+user: apple iphone
+grobot: Currently available: iPhone 7 128GB for 44.99.iPhone 7 32GB for 39.99.iPhone 7 Plus 128GB for 49.99.
+user: Time to speak up and not turn away. Rapid fire Louie like Rambo got bullets. From The Hudson River out to the Nile. Rolling down the hill, snowballing getting bigger.
+
+It's so free, this kind of feeling. Don't let me begin about heroin. Racism is schism on the serious tip. I can't stand rockin' when I'm in this place.
+
+If you learn to love then you might love life. Well get hip get hip, don't slip ya knuckle heads. Open up your ears and clean out your eyes. There's something coming to the surface.
+
+Because your crystal ball ain't so crystal clear. If you try to knock me you'll get mocked. There's fire all around. I'd like to have a say on the income tax.
+grobot: Sorry, i don't understand.
+user: wear
+grobot: OK, for Wearables we have the following brands: Apple, Suunto, Polar, Asus.
+user: sgfdhm,
+grobot: Sorry, i'm having trouble finding that!

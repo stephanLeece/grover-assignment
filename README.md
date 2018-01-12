@@ -18,6 +18,6 @@ language to be matched.
 -- tweaked box design and fixed scroll issues.
 -- reformatted chatBrain. I added an extra condition to check it the user includes the brand name in their query. For example,
 apple iphone, amazon echo etc.
--- tested on edge, chrome, firefox. 
+-- tested on edge, chrome, firefox.
 
 ## Notes:
