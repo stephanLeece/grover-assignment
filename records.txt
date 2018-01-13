@@ -238,3 +238,40 @@ user: echo
 grobot: Currently available: Alexa Echo for 49.99.
 user: apple 7
 grobot: Sorry, i'm having trouble finding that!
+user: macbook pro
+grobot: Currently available: MacBook Pro 13" i5-3210M, 4GB RAM, 500GB for 74.99.
+user: apple
+grobot: OK, for Apple we have the following categories: Phones & Tablets, Computing, Wearables.
+user: apple tablet
+grobot: Sorry, i'm having trouble finding that!
+user: apple wearables
+grobot: Currently available: Watch 38mm for 39.99.Watch 42mm for 44.99.
+user: tablet
+grobot: OK, for Phones & Tablets we have the following brands: Apple, Samsung.
+user: tablet apple
+grobot: Sorry, i'm having trouble finding that!
+user: samsung tablet
+grobot: Sorry, i'm having trouble finding that!
+user: samsung phone
+grobot: Currently available: Galaxy S8 64GB for 44.99.Galaxy S8+ 64GB for 49.99.
+user: Hi
+grobot: OK, for Tchibo we have the following categories: Smart Home.
+user: roland tr 808\
+user: roland tr 808
+grobot: Sorry, i'm having trouble finding that!
+user: iphone
+grobot: Currently available: iPhone 7 128GB for 44.99.iPhone 7 32GB for 39.99.iPhone 7 Plus 128GB for 49.99.
+user: apple phones
+grobot: Currently available: iPhone 7 128GB for 44.99.iPhone 7 32GB for 39.99.iPhone 7 Plus 128GB for 49.99.
+user: iphones
+grobot: Sorry, i'm having trouble finding that!
+user: tablet
+grobot: OK, for Phones & Tablets we have the following brands: Apple, Samsung.
+user: samsung tablet
+grobot: Sorry, i'm having trouble finding that!
+user: samsung galaxy
+grobot: Currently available: Galaxy S8 64GB for 44.99.Galaxy S8+ 64GB for 49.99.
+user: apple
+grobot: OK, for Apple we have the following categories: Phones & Tablets, Computing, Wearables.
+user: apple wearables
+grobot: Currently available: Watch 38mm for 39.99.Watch 42mm for 44.99.
