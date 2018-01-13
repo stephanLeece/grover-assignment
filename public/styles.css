@@ -38,13 +38,16 @@ section {
   background-color: black;
   border-top-left-radius: 8px;
   border-top-right-radius: 8px;
+  letter-spacing: 2px;
 }
 
 .chatInfo>img {
-  margin-left: 1%;
-  max-width: 4vw;
-  max-height: 4vh;
+  margin: .5% 0 0 .5%;
+  max-width: 29px;
+  max-height: 29px;
 }
+
+
 
 .messageWindow {
   height: 90%;
