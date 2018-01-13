@@ -16,13 +16,13 @@ else if query matches a brand or category, return brands of that category, or ca
 
 
 ## Progress
--- basic Front end Messaging structure laid out.
--- messages being passed from client to server. setting up if conditions
--- simple, single level conversations working. I plan to switch to regex matching to allow for more natural
+- basic Front end Messaging structure laid out.
+- messages being passed from client to server. setting up if conditions
+- simple, single level conversations working. I plan to switch to regex matching to allow for more natural
 language to be matched.
--- tweaked box design and fixed scroll issues.
--- reformatted chatBrain. I added an extra condition to check if the user includes the brand name in their query. For example,
+- tweaked box design and fixed scroll issues.
+- reformatted chatBrain. I added an extra condition to check if the user includes the brand name in their query. For example,
 apple iphone, amazon echo etc.
--- tested on edge, chrome, firefox.
+- tested on edge, chrome, firefox.
 
 ## Notes:
