@@ -21,7 +21,7 @@ section {
   align-items: center;
 }
 
-.chatContainer {
+#chatContainer {
   width: 45%;
   height: 90%;
   display: flex;
@@ -29,7 +29,7 @@ section {
   margin-right: 2.5%;
 }
 
-.chatInfo {
+#chatInfo {
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -41,7 +41,7 @@ section {
   letter-spacing: 2px;
 }
 
-.chatInfo>img {
+#chatInfo>img {
   margin: .5% 0 0 .5%;
   max-width: 29px;
   max-height: 29px;
@@ -49,7 +49,7 @@ section {
 
 
 
-.messageWindow {
+#messageWindow {
   height: 90%;
   display: flex;
   flex-direction: column;
